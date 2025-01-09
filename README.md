@@ -2,7 +2,7 @@
 
 I have 5 years of progressive experience in **IT Infrastructure**, coupled with a Master’s degree in **Computer Science**. I started my career as an **L2 Systems Engineer**, gradually transitioning into **Cloud Technologies** and the **DevOps toolchain**.
 
-As a **Certified DevOps Engineer (CDE)** ![CDE Badge](/Certified_DevOps_Engineer_Badge.png), I have extensive experience working in **24x7 critical production environments**, collaborating with multiple stakeholders. I have a strong background in **infrastructure engineering**, covering areas such as **cloud computing, storage, networking, backup systems, and system administration**. My focus is on **scalability**, **security**, and **reliability** across complex systems.
+As a **Certified DevOps Engineer (CDE)**, I have extensive experience working in **24x7 critical production environments**, collaborating with multiple stakeholders. I have a strong background in **infrastructure engineering**, covering areas such as **cloud computing, storage, networking, backup systems, and system administration**. My focus is on **scalability**, **security**, and **reliability** across complex systems.
 
 ## 🌍 Professional Experience
 
