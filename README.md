@@ -1,12 +1,20 @@
-# Hello, I'm Akhil 👋
+## Hello, I'm Akhil 👋
+
+---
 
 I have 5 years of progressive experience in **IT Infrastructure**, coupled with a Master’s degree in **Computer Science**. I started my career as an **L2 Systems Engineer**, gradually transitioning into **Cloud Technologies** and the **DevOps toolchain**.
 
 As a **Certified DevOps Engineer (CDE)**, I have extensive experience working in **24x7 critical production environments**, collaborating with multiple stakeholders. I have a strong background in **infrastructure engineering**, covering areas such as **cloud computing, storage, networking, backup systems, and system administration**. My focus is on **scalability**, **security**, and **reliability** across complex systems.
 
+---
+
 ## 🌍 Professional Experience
 
-I began my journey in **Infrastructure Engineering** in 2018 at an Indian MNC, where I gained training and hands-on experience across various domains including storage, networking, databases, cloud computing, and operating systems. I contributed to multiple critical migration projects.
+I began my journey in **Infrastructure Engineering** in 2018 at TATA Consultancy Services, where I gained foundational experience across various domains, including storage, networking, databases, cloud computing, and operating systems. Over time, I had the privilege of working in demanding 24x7 production environments involving multiple stakeholders, where I consistently delivered strong results and contributed to various high-profile migration projects for customers across retail, banking, and insurance sectors.
+
+To further enhance my skills and knowledge, I moved to the USA to pursue a **Master of Science in Computer Science.** During my studies, I was honored to serve as a **Graduate Assistant** and a **Student Ambassador** for the College of Engineering and Computer Science, roles that allowed me to support my peers and contribute to the academic community.
+
+Currently, I am working as a **Kubernetes Administrator** within the **Site Reliability Engineering Team** at Findica, where I focus on ensuring system reliability, scalability, and efficiency.
 
 ## 🛠️ Skills
 
