@@ -1,44 +1,46 @@
 ## Hello, I'm Akhil 👋
 
----
-
 I have 5 years of progressive experience in **IT Infrastructure**, coupled with a Master’s degree in **Computer Science**. I started my career as an **L2 Systems Engineer**, gradually transitioning into **Cloud Technologies** and the **DevOps toolchain**.
 
 <p align="left">
   <a href="https://www.credly.com/badges/f56e733e-3127-45fd-ac30-aa9e55cc2162/public_url">
-    <img src="./AWS-SAA-C03.png" alt="AWS SAA C03 Badge" height="100"/>
+    <img src="./AWS-SAA-C03.png" alt="AWS SAA C03 Badge" height="80"style="margin-right:10px"/>
   </a>
   <a href="https://www.gsdcouncil.org/certificate-verification">
-    <img src="./CDE Badge.png" alt="Certified DevOps Engineer" height="100"/>
+    <img src="./CDE Badge.png" alt="Certified DevOps Engineer" height="80"style="margin-right:10px"/>
+  </a>
+      <a href="https://www.credly.com/badges/e918c1d3-7b21-4449-8139-b92f166b227c/public_url">
+    <img src="./GCP-DevOps-Skill.png" alt="GCP TF Skill" width ="80" height="80"style="margin-right:10px"/>
   </a>
 </p>
 
 As a **Certified DevOps Engineer (CDE)**, I have extensive experience working in **24x7 critical production environments**, collaborating with multiple stakeholders. I have a strong background in **infrastructure engineering**, covering areas such as **cloud computing, storage, networking, backup systems, and system administration**. My focus is on **scalability**, **security**, and **reliability** across complex systems.
 
----
-
 ## 🌍 Professional Experience
 
-I began my journey in **Infrastructure Engineering** in 2018 at TATA Consultancy Services, where I gained foundational experience across various domains, including storage, networking, databases, cloud computing, and operating systems. Over time, I had the privilege of working in demanding 24x7 production environments involving multiple stakeholders, where I consistently delivered strong results and contributed to various high-profile migration projects for customers across retail, banking, and insurance sectors.
+I’m a Certified DevOps Engineer with 5+ years of progressive experience in **IT Infrastructure**, holding a Master’s degree in **Computer Science**. I started my career as an **L2 Systems Engineer** and transitioned into **Cloud** and **DevOps**, gaining hands-on experience in designing scalable, secure systems.
 
 To further enhance my skills and knowledge, I moved to the USA to pursue a **Master of Science in Computer Science.** During my studies, I was honored to serve as a **Graduate Assistant** and a **Student Ambassador** for the College of Engineering and Computer Science, roles that allowed me to support my peers and contribute to the academic community.
 
-Currently, I am working as a **Kubernetes Administrator** within the **DevOps** and **Site Reliability Engineering** Team at Findica, where I focus on ensuring system reliability, scalability, and efficiency.
+I currently work as a **Kubernetes Administrator** within the **DevOps** and **Site Reliability Engineering** Team at Findica, where I focus on ensuring system reliability, scalability, and efficiency.
 
 ## 🛠️ Skills
 
 - **Cloud Technologies**: AWS, Azure, Google Cloud
-- **Containers & Orchestration**: Docker, Kubernetes, Openshift, Helm
+- **Containers & Orchestration**: Docker, Kubernetes, Openshift, Helm, Trivy
 - **Infrastructure-as-Code & Automation**: Terraform, Ansible
 - **CI/CD & DevOps Tools**: Jenkins, Azure DevOps, GitHub Actions, Gitlab CI, ArgoCD
 - **Server Administration**: UNIX/Linux, Windows, VMware
 - **Version Control**: Git, GitHub
 - **Storage & Backup Solutions**: IBM, Hitachi, NetApp, Pure, Dell, IBM TSM, Commvault, Avamar, NetBackup, Veeam
 - **Networking**: Networking Protocols, TCP/IP, DNS, VPN, Load Balancing, Routing & Switching
-- **Monitoring & Observability**: Cloud-native and externally integrated tools like Prometheus, Datadog, Dynatrace
-- **Security & Compliance**: IAM, Azure AD/Entra ID, Security Best Practices, Compliance Standards (GDPR, HIPAA)
-- **Scripting & Automation**: Python, Bash, familiar with PowerShell
--
+- **Monitoring, Logging & Observability**: Cloud-native, Splunk, Prometheus, Grafana and DataDog.
+- **Security & Compliance**: IAM, HashiCorp Vault, VPN, Firewalls, Load Balancers
+- **Scripting & Automation**: Python, Bash, PowerShell
+- **Version Control**: Git & GitHub
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis, Cassandra
+- **Collaboration**: MS Office Suite, JIRA, ServiceNow and various ITSM tools
+- **SRE & Incident Management**: HA/DR, Chaos Engineering, RCA, Incident Response and Change Management
 
 ## 🔍 Looking for Roles
 
@@ -57,7 +59,7 @@ With 5 years of experience and a Master’s degree in Computer Science, I am ope
 
 ## 📌 Projects
 
-Here are a few of the key projects I've worked on -
+Here are a few of the key projects I’ve worked on:
 
 ### **Application Migration to AWS**
 
@@ -83,19 +85,34 @@ Led the migration of backup systems to Dell Avamar on **Azure Cloud**.
 
 ---
 
-## 📬 Get In Touch
+## 📝 Technical Blogs
 
-Feel free to explore my GitHub repositories and connect with me for further collaboration.
+I enjoy writing about cloud, DevOps, and infrastructure topics on Medium.  
+You can check out my profile here:
 
-- 💼 LinkedIn: [Akhil Dwibhashyam](https://www.linkedin.com/in/akhil-dwibhashyam/)
+<p>
+  <a href="https://medium.com/@adwibha">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>
+
+Here are a few recent posts:
+
+- [Infrastructure as Code (IaC) with Terraform on AWS — The What, Why & How](https://medium.com/@adwibha/infrastructure-as-code-iac-with-terraform-on-aws-the-what-why-how-800a99ad24ba)
+- [Monitoring AWS EKS with Prometheus and Grafana](https://medium.com/@adwibha/monitoring-aws-eks-with-prometheus-and-grafana-1b9d92f63a22)
+- [What is SaaS, PaaS, and IaaS?](https://medium.com/@adwibha/what-is-saas-paas-and-iaas-e800af9159a3)
 
 ---
 
 ## 📬 Get In Touch
 
-Feel free to explore my GitHub repositories and connect with me for further collaboration.
+📫 **Let’s connect!** I’m always open to discussing DevOps, infrastructure, or new opportunities.
 
-- 💼 LinkedIn: [Akhil Dwibhashyam](https://www.linkedin.com/in/akhil-dwibhashyam/)
+<p>
+  <a href="https://www.linkedin.com/in/akhil-dwibhashyam/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
