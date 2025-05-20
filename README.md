@@ -4,13 +4,13 @@ I have 5 years of progressive experience in **IT Infrastructure**, coupled with 
 
 <p align="left">
   <a href="https://www.credly.com/badges/f56e733e-3127-45fd-ac30-aa9e55cc2162/public_url">
-    <img src="./AWS-SAA-C03.png" alt="AWS SAA C03 Badge" height="100"style="margin-right:10px"/>
+    <img src="./AWS-SAA-C03.png" alt="AWS SAA C03 Badge" height="100"/>
   </a>
   <a href="https://www.gsdcouncil.org/certificate-verification">
-    <img src="./CDE Badge.png" alt="Certified DevOps Engineer" height="100"style="margin-right:10px"/>
+    <img src="./CDE Badge.png" alt="Certified DevOps Engineer" height="100"/>
   </a>
       <a href="https://www.credly.com/badges/e918c1d3-7b21-4449-8139-b92f166b227c/public_url">
-    <img src="./GCP-DevOps-Skill.png" alt="GCP TF Skill" height="100"style="margin-right:10px"/>
+    <img src="./GCP-DevOps-Skill.png" alt="GCP TF Skill" height="100"/>
   </a>
 </p>
 
