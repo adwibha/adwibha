@@ -1,6 +1,6 @@
 ## Hello, I'm Akhil 👋
 
-I have 5 years of progressive experience in **IT Infrastructure**, coupled with a Master’s degree in **Computer Science**. I started my career as an **L2 Systems Engineer**, gradually transitioning into **Cloud Technologies** and the **DevOps toolchain**.
+I have 5 years of progressive experience in **IT Infrastructure**, coupled with a Master’s degree in **Computer Science**. I started my career as an **Software Systems Engineer**, gradually transitioning into **Cloud Technologies** and the **DevOps toolchain**.
 
 <p align="left">
   <a href="https://www.credly.com/badges/f56e733e-3127-45fd-ac30-aa9e55cc2162/public_url">
@@ -22,7 +22,7 @@ As a **Certified DevOps Engineer (CDE)**, I have extensive experience working in
 
 ## 🌍 Professional Experience
 
-I’m a Certified DevOps Engineer with 5+ years of progressive experience in **IT Infrastructure**, holding a Master’s degree in **Computer Science**. I started my career as an **L2 Systems Engineer** and transitioned into **Cloud** and **DevOps**, gaining hands-on experience in designing scalable, secure systems.
+I’m a Certified DevOps Engineer with 5+ years of progressive experience in **IT Infrastructure**, holding a Master’s degree in **Computer Science**. I started my career as an **Software Systems Engineer** and transitioned into **Cloud** and **DevOps**, gaining hands-on experience in designing scalable, secure systems.
 
 To further enhance my skills and knowledge, I moved to the USA to pursue a **Master of Science in Computer Science.** During my studies, I was honored to serve as a **Graduate Assistant** and a **Student Ambassador** for the College of Engineering and Computer Science, roles that allowed me to support my peers and contribute to the academic community.
 
@@ -91,8 +91,7 @@ Led the migration of backup systems to Dell Avamar on **Azure Cloud**.
 
 ## 📝 Technical Blogs
 
-I enjoy writing about cloud, DevOps, and infrastructure topics on Medium.  
-You can check out my profile here:
+I enjoy writing about cloud, DevOps, and infrastructure topics on Medium. You can check out my profile here:
 
 <p>
   <a href="https://medium.com/@adwibha">
@@ -102,6 +101,8 @@ You can check out my profile here:
 
 Here are a few recent posts:
 
+- [You commit code. Jenkins builds, tests, and deploys it — automatically, reliably, and repeatably](https://medium.com/@adwibha/you-commit-code-jenkins-builds-tests-and-deploys-it-automatically-reliably-and-repeatably-bcb43f9f9123)
+- [Your Systems Are Talking. Splunk Helps You Understand What They’re Saying](https://medium.com/@adwibha/your-systems-are-talking-splunk-helps-you-understand-what-theyre-saying-a5876ec1b462)
 - [Infrastructure as Code (IaC) with Terraform on AWS — The What, Why & How](https://medium.com/@adwibha/infrastructure-as-code-iac-with-terraform-on-aws-the-what-why-how-800a99ad24ba)
 - [Monitoring AWS EKS with Prometheus and Grafana](https://medium.com/@adwibha/monitoring-aws-eks-with-prometheus-and-grafana-1b9d92f63a22)
 - [What is SaaS, PaaS, and IaaS?](https://medium.com/@adwibha/what-is-saas-paas-and-iaas-e800af9159a3)
