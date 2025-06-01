@@ -6,6 +6,10 @@ I have 5 years of progressive experience in **IT Infrastructure**, coupled with 
   <a href="https://www.credly.com/badges/f56e733e-3127-45fd-ac30-aa9e55cc2162/public_url">
     <img src="./AWS-SAA-C03.png" alt="AWS SAA C03 Badge" height="100"/>
   </a>
+    </a>
+      <a href="https://www.credly.com/badges/845b2cb1-dc4d-41fb-b0e0-705b37bf7bc4/public_url">
+    <img src="./HCTAO-003.png" alt="HCTAO-003 Badge" height="100"/>
+  </a>
   <a href="https://www.gsdcouncil.org/certificate-verification">
     <img src="./CDE Badge.png" alt="Certified DevOps Engineer" height="100"/>
   </a>
