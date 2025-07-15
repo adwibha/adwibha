@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0366D6&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+I'm+Akhil;AI+%7C+Cloud+%7C+DevOps+%7C+SRE" alt="Typing SVG" />
 </div>
@@ -27,7 +28,7 @@ Currently working at **Findica** as a **Software DevOps Engineer – AI**, I foc
 
 ---
 
-## Certifications & Achievements
+## Certifications & Badges
 
 <div align="center">
   <a href="https://www.credly.com/badges/f56e733e-3127-45fd-ac30-aa9e55cc2162/public_url">
