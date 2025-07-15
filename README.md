@@ -15,7 +15,7 @@
 
 I'm a **Software DevOps Engineer** with **5+ years** of progressive experience in **IT Infrastructure** and **Cloud Technologies**, holding a Master's degree in **Computer Science**. My journey evolved from **Software Systems Engineer** to **Cloud Technologies** and **DevOps**, now focusing on **AI integration** and **intelligent analytics platforms**.
 
-Currently working at **Findica** as a **Software DevOps Engineer – AI**, I engineer enterprise AI analytics platforms with **99.9% uptime**, implementing semantic caching and intelligent query templating achieving **60% cost reduction** for AI API integrations.
+Currently working at **Findica** as a **Software DevOps Engineer – AI**, I focus on building and maintaining enterprise AI analytics platforms, implementing semantic caching and intelligent query templating to optimize AI API integrations and system performance.
 
 ### What I Bring to the Table
 
@@ -102,8 +102,8 @@ I'm actively seeking roles as **AI Engineer**, **Cloud Engineer**, **DevOps Engi
 
 ## Featured Projects
 
-### AI-Powered Business Analytics Platform
-*Enterprise-level intelligent analytics platform with 99.9% uptime*
+### AI-Powered Analytics Platform
+*Enterprise level intelligent analytics platform*
 
 ![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat&logo=openai&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
@@ -113,13 +113,12 @@ I'm actively seeking roles as **AI Engineer**, **Cloud Engineer**, **DevOps Engi
 - Interactive network visualization and Natural language query processing
 
 **Core Features:**
-- **AI Integration**: LLM-powered natural language queries and SQL generation
+- **AI Integration**: LLM-powered natural language queries
 - **Data Visualization**: Interactive network graphs with D3.js and Recharts
 - **Real-time Analytics**: Live PostgreSQL connections with comprehensive KPIs
 - **Performance Optimization**: Token usage tracking and rate limiting
 - **Security**: SQL injection prevention and secure API handling
 
----
 
 ### Application Migration to AWS
 *Enterprise-scale application containerization and CI/CD implementation*
@@ -132,7 +131,6 @@ I'm actively seeking roles as **AI Engineer**, **Cloud Engineer**, **DevOps Engi
 - Automated CI/CD pipelines for streamlined deployment
 - Enhanced deployment reliability and consistency
 
----
 
 ### Canadian Retail Cloud Storage Migration
 *Large-scale storage infrastructure migration to AWS*
@@ -145,7 +143,6 @@ I'm actively seeking roles as **AI Engineer**, **Cloud Engineer**, **DevOps Engi
 - Enhanced data integrity and availability
 - Reduced operational costs while improving performance
 
----
 
 ### Backup Infrastructure Migration to Azure
 *End-to-end backup system migration and optimization*
@@ -158,7 +155,6 @@ I'm actively seeking roles as **AI Engineer**, **Cloud Engineer**, **DevOps Engi
 - **Reduced operational disruptions by 50%**
 - Improved cost efficiency and backup reliability
 
----
 
 ### Marketing Website with Next.js
 *Responsive marketing website with modern performance optimizations*
@@ -181,12 +177,12 @@ I share my knowledge and experiences through technical writing on Medium. Here a
 
 ### Recent Articles
 
-- **[How to Run Open-Source LLMs Locally with Ollama](https://medium.com/@adwibha/how-to-run-open-source-llms-locally-with-ollama-the-fastest-way-to-start-97b9b2f6986d)** - The fastest way to start with local LLMs
-- **[Jenkins CI/CD Pipeline Guide](https://medium.com/@adwibha/you-commit-code-jenkins-builds-tests-and-deploys-it-automatically-reliably-and-repeatably-bcb43f9f9123)** - Automated, reliable, and repeatable deployments
-- **[Splunk Monitoring Deep Dive](https://medium.com/@adwibha/your-systems-are-talking-splunk-helps-you-understand-what-theyre-saying-a5876ec1b462)** - Understanding what your systems are saying
-- **[Infrastructure as Code with Terraform](https://medium.com/@adwibha/infrastructure-as-code-iac-with-terraform-on-aws-the-what-why-how-800a99ad24ba)** - The what, why & how of IaC
-- **[Monitoring AWS EKS with Prometheus and Grafana](https://medium.com/@adwibha/monitoring-aws-eks-with-prometheus-and-grafana-1b9d92f63a22)** - Complete monitoring setup guide
-- **[SaaS, PaaS, and IaaS Explained](https://medium.com/@adwibha/what-is-saas-paas-and-iaas-e800af9159a3)** - Cloud service models demystified
+- **[How to Run Open-Source LLMs Locally with Ollama — The Fastest Way to Start](https://medium.com/@adwibha/how-to-run-open-source-llms-locally-with-ollama-the-fastest-way-to-start-97b9b2f6986d)**
+- **[You commit code. Jenkins builds, tests, and deploys it — automatically, reliably, and repeatably](https://medium.com/@adwibha/you-commit-code-jenkins-builds-tests-and-deploys-it-automatically-reliably-and-repeatably-bcb43f9f9123)**
+- **[Your Systems Are Talking. Splunk Helps You Understand What They're Saying](https://medium.com/@adwibha/your-systems-are-talking-splunk-helps-you-understand-what-theyre-saying-a5876ec1b462)**
+- **[Infrastructure as Code (IaC) with Terraform on AWS — The What, Why & How](https://medium.com/@adwibha/infrastructure-as-code-iac-with-terraform-on-aws-the-what-why-how-800a99ad24ba)**
+- **[Monitoring AWS EKS with Prometheus and Grafana](https://medium.com/@adwibha/monitoring-aws-eks-with-prometheus-and-grafana-1b9d92f63a22)**
+- **[What is SaaS, PaaS, and IaaS?](https://medium.com/@adwibha/what-is-saas-paas-and-iaas-e800af9159a3)**
 
 ---
 
@@ -194,7 +190,9 @@ I share my knowledge and experiences through technical writing on Medium. Here a
 
 **I'm always open to discussing AI, DevOps, infrastructure, or new opportunities!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-dwibhashyam/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adwibha)
+<a href="https://www.linkedin.com/in/akhil-dwibhashyam/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 ---
 
@@ -205,3 +203,5 @@ I share my knowledge and experiences through technical writing on Medium. Here a
 *Thanks for visiting my profile! Feel free to reach out for collaborations or opportunities.*
 
 </div>
+
+---
