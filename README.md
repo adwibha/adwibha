@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0366D6&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+I'm+Akhil;AI+%7C+Cloud+%7C+DevOps+%7C+SRE" alt="Typing SVG" />
 </div>
 
----
-
 ## About Me
 
 I'm a **Software DevOps Engineer** with **5+ years** of progressive experience in **IT Infrastructure** and **Cloud Technologies**, holding a Master's degree in **Computer Science**. My journey evolved from **Software Systems Engineer** to **Cloud Technologies** and **DevOps**, now focusing on **AI integration** and **intelligent analytics platforms**.
