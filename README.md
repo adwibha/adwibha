@@ -3,13 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0366D6&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+I'm+Akhil;AI+%7C+Cloud+%7C+DevOps+%7C+SRE" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AI-Engineer-blue?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineer" />
-  <img src="https://img.shields.io/badge/☁️%20Cloud-Engineer-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Engineer" />
-  <img src="https://img.shields.io/badge/DevOps-Engineer-green?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevOps Engineer" />
-  <img src="https://img.shields.io/badge/SRE-Site%20Reliability%20Engineer-red?style=for-the-badge&logo=grafana&logoColor=white" alt="SRE" />
-</div>
-
 ---
 
 ## About Me
