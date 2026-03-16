@@ -21,7 +21,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ```yaml
 adwibha@MacBook:~
