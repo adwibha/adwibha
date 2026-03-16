@@ -1,10 +1,10 @@
 <div align="center">
-<table style="margin: 0 auto; border: none;">
+<table>
   <tr>
-    <td width="50%" valign="middle" style="text-align: left; padding-right: 32px; vertical-align: middle;">
-      <p style="font-family: Aptos, 'Segoe UI', sans-serif; font-size: 2.2em; font-weight: 300; letter-spacing: 0.02em; margin: 0 0 12px 0;">👋 Hello, I am Akhil</p>
-      <p style="margin: 0 0 20px 0;"><img src="https://readme-typing-svg.demolab.com?font=Aptos&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=false&vCenter=true&multiline=true&width=420&height=80&lines=Software+Engineering+%C2%B7+AI+Systems+%C2%B7+DevOps+%26+SRE;Building+Systems+That+Don%27t+Break" alt="Typing SVG"/></p>
-      <p style="margin: 0;">
+    <td width="50%" valign="middle" align="left">
+      <h2>👋 Hello, I am Akhil</h2>
+      <p><img src="https://readme-typing-svg.demolab.com?font=Aptos&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=false&vCenter=true&multiline=true&width=800&height=80&lines=Software+Engineering+%C2%B7+AI+Systems+%C2%B7+DevOps+%26+SRE;Building+Systems+That+Don%27t+Break" alt="Typing SVG"/></p>
+      <p>
         <a href="https://www.linkedin.com/in/akhil-dwibhashyam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
         &nbsp;
         <a href="https://medium.com/@adwibha"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
@@ -12,8 +12,8 @@
         <img src="https://komarev.com/ghpvc/?username=adwibha&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
       </p>
     </td>
-    <td width="50%" valign="middle" style="text-align: right; padding-left: 24px; vertical-align: middle;">
-      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="AI Cloud Infrastructure" width="100%" style="max-width: 480px; display: block; margin-left: auto;"/>
+    <td width="50%" valign="middle" align="right">
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="AI Cloud Infrastructure" width="100%"/>
     </td>
   </tr>
 </table>
@@ -22,7 +22,6 @@
 ---
 
 <div align="center">
-<div style="font-family: Aptos, 'Segoe UI', monospace; text-align: left; display: inline-block;">
 
 ```yaml
 adwibha@MacBook:~
@@ -46,7 +45,6 @@ currently  : Open to Software Engineering · DevOps · SRE · AI Infrastructure 
 ```
 
 </div>
-</div>
 
 ---
 
@@ -54,31 +52,27 @@ currently  : Open to Software Engineering · DevOps · SRE · AI Infrastructure 
 
 ## About Me
 
-<div style="max-width: 720px; margin: 0 auto; text-align: left;">
+</div>
 
 I'm a **Software DevOps Engineer** with **5+ years** of experience in **backend development**, **REST APIs**, **IT Infrastructure**, and **Cloud Technologies**, along with a Master's degree in **Computer Science**. I build and ship backend services and APIs, and my journey has evolved from **Software Systems Engineer** to **Cloud** and **DevOps**, with a strong focus on **AI integration** and **Intelligent analytics platforms**.
 
 Currently at **Findica** as a **Software DevOps Engineer – AI**, I design and maintain enterprise AI analytics platform, **REST APIs**, semantic caching, and intelligent query templating to optimize AI integrations and system performance. I ship backend and AI systems that run in production — and I care as much about observability and reliability as I do about shipping.
 
-</div>
-
-</div>
-
 ---
 
 <div align="center">
-<table style="margin: 0 auto;">
+<table>
   <tr>
     <td width="50%" valign="top">
       <h3>Philosophy</h3>
-      <blockquote>"Improvement at anything is based on thousands of tiny failures, and the magnitude of your success is based on how many times you’ve failed at something". - Mark Manson</blockquote>
+      <blockquote>"Improvement at anything is based on thousands of tiny failures, and the magnitude of your success is based on how many times you've failed at something". <i> - Mark Manson </i></blockquote>
     </td>
     <td width="50%" valign="top">
       <h3>Certifications</h3>
       <div align="center">
         <a href="https://www.credly.com/badges/f56e733e-3127-45fd-ac30-aa9e55cc2162/public_url"><img src="./AWS-SAA-C03.png" height="80" alt="AWS SAA"/></a>
         <a href="https://www.credly.com/badges/845b2cb1-dc4d-41fb-b0e0-705b37bf7bc4/public_url"><img src="./HCTAO-003.png" height="80" alt="Terraform"/></a>
-        <a href="https://www.gsdcouncil.org/certificate-verification"><img src="./CDE Badge.png" height="80" alt="CDE"/></a>
+        <a href="https://www.gsdcouncil.org/certificate-verification"><img src="./CDE-Badge.png" height="80" alt="CDE"/></a>
       </div>
     </td>
   </tr>
@@ -91,10 +85,10 @@ Currently at **Findica** as a **Software DevOps Engineer – AI**, I design and 
 
 ## What I Build
 
-<table style="margin: 0 auto;">
+<table>
   <tr>
     <td align="center" width="33%">
-      <p><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="32"/> <img src="./icons/HashiCorp%20Terraform.png" alt="Terraform" height="32"/> <img src="./icons/Kubernetes.png" alt="Kubernetes" height="32"/></p>
+      <p><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="32"/> <img src="./icons/hashicorp-terraform.png" alt="Terraform" height="32"/> <img src="./icons/kubernetes.png" alt="Kubernetes" height="32"/></p>
       <p><strong>Cloud Infrastructure</strong></p>
       <p>Production AWS platforms. ECS/EKS, Terraform IaC, VPC design, zero-downtime CI/CD. Systems that scale without manual intervention.</p>
     </td>
@@ -104,7 +98,7 @@ Currently at **Findica** as a **Software DevOps Engineer – AI**, I design and 
       <p>REST APIs (FastAPI, Node), RAG pipelines, LLM cost routers, MCP servers, streaming APIs. Backend services and AI that run reliably under load — not just demos.</p>
     </td>
     <td align="center" width="33%">
-      <p><img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus Grafana" height="32"/> <img src="./icons/Docker.png" alt="Docker" height="32"/></p>
+      <p><img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus Grafana" height="32"/> <img src="./icons/docker.png" alt="Docker" height="32"/></p>
       <p><strong>Reliability Engineering</strong></p>
       <p>Observability stacks, SLI/SLO frameworks, automated incident response. When things break, the system responds before you wake up.</p>
     </td>
@@ -119,22 +113,22 @@ Currently at **Findica** as a **Software DevOps Engineer – AI**, I design and 
 
 ## Tech Stack
 
-<table cellpadding="12" cellspacing="0" style="margin: 0 auto;">
+<table cellpadding="12" cellspacing="0">
   <tr>
-    <td width="50%" valign="top" style="padding-right: 32px;">
-      <p style="margin-bottom: 14px;"><strong>AI & Machine Learning</strong><br/><img src="https://skillicons.dev/icons?i=pytorch,python" alt="PyTorch Python" height="32"/> <img src="./icons/openai.png" alt="OpenAI" height="32"/></p>
-      <p style="margin-bottom: 14px;"><strong>Cloud & Infrastructure</strong><br/><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="32"/> <img src="./icons/Azure.png" alt="Azure" height="32"/> <img src="./icons/Google%20Cloud.png" alt="GCP" height="32"/></p>
-      <p style="margin-bottom: 14px;"><strong>IaC & Automation</strong><br/><img src="./icons/HashiCorp%20Terraform.png" alt="Terraform" height="32"/> <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" height="32"/></p>
-      <p style="margin-bottom: 14px;"><strong>Containers & Orchestration</strong><br/><img src="./icons/Docker.png" alt="Docker" height="32"/> <img src="./icons/Kubernetes.png" alt="Kubernetes" height="32"/> <img src="./icons/helm.png" alt="Helm" height="32"/></p>
-      <p style="margin-bottom: 14px;"><strong>CI/CD</strong><br/><img src="./icons/Jenkins.png" alt="Jenkins" height="32"/> <img src="./icons/GitHub%20Actions.png" alt="GitHub Actions" height="32"/></p>
-      <p style="margin-bottom: 14px;"><strong>Monitoring & Observability</strong><br/><img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus Grafana" height="32"/> <img src="./icons/splunk.png" alt="Splunk" height="32"/></p>
+    <td width="50%" valign="top" align="center">
+      <p><strong>AI & Machine Learning</strong><br/><img src="https://skillicons.dev/icons?i=pytorch,python" alt="PyTorch Python" height="32"/> <img src="./icons/openai.png" alt="OpenAI" height="32"/></p>
+      <p><strong>Cloud & Infrastructure</strong><br/><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="32"/> <img src="./icons/azure.png" alt="Azure" height="32"/> <img src="./icons/google-cloud.png" alt="GCP" height="32"/></p>
+      <p><strong>IaC & Automation</strong><br/><img src="./icons/hashicorp-terraform.png" alt="Terraform" height="32"/> <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" height="32"/></p>
+      <p><strong>Containers & Orchestration</strong><br/><img src="./icons/docker.png" alt="Docker" height="32"/> <img src="./icons/kubernetes.png" alt="Kubernetes" height="32"/> <img src="./icons/helm.png" alt="Helm" height="32"/></p>
+      <p><strong>CI/CD</strong><br/><img src="./icons/jenkins.png" alt="Jenkins" height="32"/> <img src="./icons/github-actions.png" alt="GitHub Actions" height="32"/></p>
+      <p><strong>Monitoring & Observability</strong><br/><img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus Grafana" height="32"/> <img src="./icons/splunk.png" alt="Splunk" height="32"/></p>
     </td>
-    <td width="50%" valign="top" style="padding-left: 32px;">
-      <p style="margin-bottom: 14px;"><strong>Backend & APIs</strong><br/><img src="https://skillicons.dev/icons?i=python,fastapi" alt="Python FastAPI" height="32"/> <img src="https://skillicons.dev/icons?i=nodejs,typescript" alt="Node TypeScript" height="32"/> <img src="./icons/api.png" alt="API" height="32"/></p>
-      <p style="margin-bottom: 14px;"><strong>Programming & Development</strong><br/><img src="https://skillicons.dev/icons?i=typescript,nodejs,react,nextjs" alt="TypeScript Node React Next" height="32"/></p>
-      <p style="margin-bottom: 14px;"><strong>Scripting & Automation</strong><br/><img src="https://skillicons.dev/icons?i=python,bash" alt="Python Bash" height="32"/></p>
-      <p style="margin-bottom: 14px;"><strong>Databases & Storage</strong><br/><img src="./icons/postgre.png" alt="PostgreSQL" height="32"/> <img src="https://skillicons.dev/icons?i=redis,mongodb" alt="Redis MongoDB" height="32"/></p>
-      <p style="margin-bottom: 14px;"><strong>Security & Networking</strong><br/><img src="./icons/security.png" alt="Security" height="32"/> <img src="./icons/load-balancing.png" alt="Load balancing" height="32"/> <img src="./icons/network.png" alt="Network" height="32"/> <img src="./icons/ngnix.png" alt="Nginx" height="32"/></p>
+    <td width="50%" valign="top" align="center">
+      <p><strong>Backend & APIs</strong><br/><img src="https://skillicons.dev/icons?i=python,fastapi" alt="Python FastAPI" height="32"/> <img src="https://skillicons.dev/icons?i=nodejs,typescript" alt="Node TypeScript" height="32"/> <img src="./icons/api.png" alt="API" height="32"/></p>
+      <p><strong>Programming & Development</strong><br/><img src="https://skillicons.dev/icons?i=typescript,nodejs,react,nextjs" alt="TypeScript Node React Next" height="32"/></p>
+      <p><strong>Scripting & Automation</strong><br/><img src="https://skillicons.dev/icons?i=python,bash" alt="Python Bash" height="32"/></p>
+      <p><strong>Databases & Storage</strong><br/><img src="./icons/postgre.png" alt="PostgreSQL" height="32"/> <img src="https://skillicons.dev/icons?i=redis,mongodb" alt="Redis MongoDB" height="32"/></p>
+      <p><strong>Security & Networking</strong><br/><img src="./icons/security.png" alt="Security" height="32"/> <img src="./icons/load-balancing.png" alt="Load balancing" height="32"/> <img src="./icons/network.png" alt="Network" height="32"/> <img src="./icons/ngnix.png" alt="Nginx" height="32"/></p>
     </td>
   </tr>
 </table>
@@ -147,7 +141,7 @@ Currently at **Findica** as a **Software DevOps Engineer – AI**, I design and 
 
 ## Featured Projects
 
-<table cellpadding="12" style="margin: 0 auto;">
+<table cellpadding="12">
   <tr>
     <td width="50%" valign="top">
       <h3>AI-Powered Analytics Platform</h3>
@@ -158,7 +152,7 @@ Currently at **Findica** as a **Software DevOps Engineer – AI**, I design and 
     <td width="50%" valign="top">
       <h3>Application Migration to AWS</h3>
       <p><em>Enterprise-scale containerization and CI/CD</em></p>
-      <p><img src="./icons/Docker.png" alt="Docker" height="32"/> <img src="./icons/Kubernetes.png" alt="Kubernetes" height="32"/> <img src="./icons/Jenkins.png" alt="Jenkins" height="32"/></p>
+      <p><img src="./icons/docker.png" alt="Docker" height="32"/> <img src="./icons/kubernetes.png" alt="Kubernetes" height="32"/> <img src="./icons/jenkins.png" alt="Jenkins" height="32"/></p>
       <p>Migrated multi-module app to AWS. Docker &amp; Kubernetes containerization, automated CI/CD pipelines, improved deployment reliability.</p>
     </td>
   </tr>
@@ -172,7 +166,7 @@ Currently at **Findica** as a **Software DevOps Engineer – AI**, I design and 
     <td width="50%" valign="top">
       <h3>Backup Infrastructure Migration to Azure</h3>
       <p><em>End-to-end backup system migration and optimization</em></p>
-      <p><img src="./icons/Azure.png" alt="Azure" height="32"/> <img src="./icons/dell.png" alt="Dell" height="32"/></p>
+      <p><img src="./icons/azure.png" alt="Azure" height="32"/> <img src="./icons/dell.png" alt="Dell" height="32"/></p>
       <p>IBM TSM → Dell Avamar on Azure. HA/DR plans, optimized backup schedules, 50% fewer operational disruptions.</p>
     </td>
   </tr>
@@ -190,7 +184,7 @@ Currently at **Findica** as a **Software DevOps Engineer – AI**, I design and 
 
 *Production systems. Real metrics. No demo-ware.*
 
-<table cellpadding="12" style="margin: 0 auto;">
+<table cellpadding="12">
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/adwibha/rag-pipeline">rag-pipeline</a></h3>
@@ -201,7 +195,7 @@ Currently at **Findica** as a **Software DevOps Engineer – AI**, I design and 
     <td width="50%" valign="top">
       <h3><a href="https://github.com/adwibha/obs-stack-local">obs-stack-local</a></h3>
       <p><em>6-service observability stack — pre-provisioned dashboards, alert rules, one command</em></p>
-      <p><img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Stack" height="32"/> <img src="./icons/Docker.png" alt="Docker" height="32"/></p>
+      <p><img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Stack" height="32"/> <img src="./icons/docker.png" alt="Docker" height="32"/></p>
       <p>SLI/SLO-driven alerting · 40% faster incident detection</p>
     </td>
   </tr>
@@ -229,8 +223,16 @@ Currently at **Findica** as a **Software DevOps Engineer – AI**, I design and 
 
 ## GitHub Activity
 
-  <img src="https://github-readme-stats.vercel.app/api?username=adwibha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwibha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" width="49%" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adwibha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=adwibha&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=adwibha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adwibha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&include_all_commits=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adwibha&layout=compact&theme=default&hide_border=true&langs_count=8&count_private=true&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwibha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&include_all_commits=true" width="49%" alt="Top languages"/>
+  </picture>
 
 </div>
 
@@ -254,21 +256,17 @@ Currently at **Findica** as a **Software DevOps Engineer – AI**, I design and 
 
 ## Technical Writing
 
-<div style="max-width: 640px; margin: 0 auto; text-align: left;">
-
-I share my knowledge and experiences through technical writing on Medium. Here are some of my recent articles:
+I share my knowledge and experiences through technical writing on Medium.
 
 <a href="https://medium.com/@adwibha"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+
+</div>
 
 ### Recent Articles
 
 - **[How to Run Open-Source LLMs Locally with Ollama — The Fastest Way to Start](https://medium.com/@adwibha/how-to-run-open-source-llms-locally-with-ollama-the-fastest-way-to-start-97b9b2f6986d)**
 - **[Monitoring AWS EKS with Prometheus and Grafana](https://medium.com/@adwibha/monitoring-aws-eks-with-prometheus-and-grafana-1b9d92f63a22)**
 - **[Infrastructure as Code (IaC) with Terraform on AWS — The What, Why & How](https://medium.com/@adwibha/infrastructure-as-code-iac-with-terraform-on-aws-the-what-why-how-800a99ad24ba)**
-
-</div>
-
-</div>
 
 ---
 
@@ -284,7 +282,7 @@ I share my knowledge and experiences through technical writing on Medium. Here a
 
 ---
 
-<p align="center" style="font-size: 0.75em; opacity: 0.8;">
+<p align="center">
   Flaticon credits:
   <a href="https://www.flaticon.com/free-icons/security" title="security icons">Security icons created by Freepik - Flaticon</a> ·
   <a href="https://www.flaticon.com/free-icons/api" title="api icons">Api icons created by berkahicon - Flaticon</a> ·
