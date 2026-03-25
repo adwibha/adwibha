@@ -9,7 +9,7 @@
         &nbsp;
         <a href="https://medium.com/@adwibha"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
         &nbsp;
-        <img src="https://komarev.com/ghpvc/?username=adwibha&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+        <a href="https://www.credly.com/users/adwibha"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
       </p>
     </td>
     <td width="50%" valign="middle" align="right">
@@ -33,8 +33,7 @@ focus:
   backend         : REST APIs, FastAPI/Node, service design, databases
   infrastructure  : IaC, ECS/EKS, CI/CD, zero-downtime deployments
   reliability     : SLIs/SLOs, observability, incident response automation
-  ai-systems      : RAG pipelines, LLM cost routing, MCP, vector search
-  mcp-servers     : MCP server development for agent integration
+  ai-systems      : RAG pipelines, LLM routing, MCP servers, vector search
 certifications:
   - AWS Solutions Architect – Associate
   - HashiCorp Certified Terraform Associate
@@ -54,29 +53,26 @@ currently  : Open to Software Engineering · DevOps · SRE · AI Infrastructure 
 
 </div>
 
-I'm a **Software DevOps Engineer** with **5+ years** of experience in **backend development**, **REST APIs**, **IT Infrastructure**, and **Cloud Technologies**, along with a Master's degree in **Computer Science**. I build and ship backend services and APIs, and my journey has evolved from **Software Systems Engineer** to **Cloud** and **DevOps**, with a strong focus on **AI integration** and **Intelligent analytics platforms**.
+Software engineer with 5+ years building backend services, cloud infrastructure (AWS, Azure, GCP), and DevOps pipelines. MS in Computer Science. I design and scale systems using Terraform, Docker, Kubernetes, and CI/CD — and lately, I've been putting AI to work inside those systems.
 
-Currently at **Findica** as a **Software DevOps Engineer – AI**, I design and maintain enterprise AI analytics platform, **REST APIs**, semantic caching, and intelligent query templating to optimize AI integrations and system performance. I ship backend and AI systems that run in production — and I care as much about observability and reliability as I do about shipping.
+Currently at **Findica**, where I build an enterprise AI analytics platform — LLM-powered queries (GPT-4, Gemini), semantic caching, real-time PostgreSQL analytics, and the TypeScript/Node backend serving it all. Before that, I ran large-scale cloud migrations, built containerized deployment pipelines on EKS, and stood up monitoring stacks from scratch.
+
+I'm most interested in the intersection of infrastructure and AI: reducing LLM costs with smart caching, automating incident response with language models, building observability into everything. I want the infrastructure to be as intelligent as the applications running on it.
 
 ---
 
 <div align="center">
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Philosophy</h3>
-      <blockquote>"Improvement at anything is based on thousands of tiny failures, and the magnitude of your success is based on how many times you've failed at something". <i> - Mark Manson </i></blockquote>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Certifications</h3>
-      <div align="center">
-        <a href="https://www.credly.com/badges/f56e733e-3127-45fd-ac30-aa9e55cc2162/public_url"><img src="./AWS-SAA-C03.png" height="80" alt="AWS SAA"/></a>
-        <a href="https://www.credly.com/badges/845b2cb1-dc4d-41fb-b0e0-705b37bf7bc4/public_url"><img src="./HCTAO-003.png" height="80" alt="Terraform"/></a>
-        <a href="https://www.gsdcouncil.org/certificate-verification"><img src="./CDE-Badge.png" height="80" alt="CDE"/></a>
-      </div>
-    </td>
-  </tr>
-</table>
+
+## Certifications
+
+<a href="https://www.credly.com/badges/f56e733e-3127-45fd-ac30-aa9e55cc2162/public_url"><img src="./AWS-SAA-C03.png" height="90" alt="AWS SAA"/></a>
+&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/845b2cb1-dc4d-41fb-b0e0-705b37bf7bc4/public_url"><img src="./HCTAO-003.png" height="90" alt="Terraform"/></a>
+&nbsp;&nbsp;
+<a href="https://www.gsdcouncil.org/certificate-verification"><img src="./CDE-Badge.png" height="90" alt="CDE"/></a>
+&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/ded808d6-8eb0-4ac6-a0c2-5c6927325650/public_url"><img src="./McKinsey-Forward.png" height="90" alt="McKinsey Forward"/></a>
+
 </div>
 
 ---
@@ -90,17 +86,17 @@ Currently at **Findica** as a **Software DevOps Engineer – AI**, I design and 
     <td align="center" width="33%">
       <p><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="32"/> <img src="./icons/hashicorp-terraform.png" alt="Terraform" height="32"/> <img src="./icons/kubernetes.png" alt="Kubernetes" height="32"/></p>
       <p><strong>Cloud Infrastructure</strong></p>
-      <p>Production AWS platforms. ECS/EKS, Terraform IaC, VPC design, zero-downtime CI/CD. Systems that scale without manual intervention.</p>
+      <p>Production AWS environments with Terraform IaC, ECS/EKS orchestration, VPC networking, and automated CI/CD pipelines.</p>
     </td>
     <td align="center" width="33%">
       <p><img src="https://skillicons.dev/icons?i=python,fastapi" alt="Python FastAPI" height="32"/> <img src="./icons/postgre.png" alt="PostgreSQL" height="32"/></p>
       <p><strong>Backend & AI Systems</strong></p>
-      <p>REST APIs (FastAPI, Node), RAG pipelines, LLM cost routers, MCP servers, streaming APIs. Backend services and AI that run reliably under load — not just demos.</p>
+      <p>REST APIs (FastAPI, Node), RAG pipelines with pgvector, LLM cost routers, MCP servers, and streaming endpoints.</p>
     </td>
     <td align="center" width="33%">
       <p><img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus Grafana" height="32"/> <img src="./icons/docker.png" alt="Docker" height="32"/></p>
       <p><strong>Reliability Engineering</strong></p>
-      <p>Observability stacks, SLI/SLO frameworks, automated incident response. When things break, the system responds before you wake up.</p>
+      <p>Observability stacks (Prometheus, Grafana, Splunk), SLI/SLO frameworks, and automated incident response.</p>
     </td>
   </tr>
 </table>
@@ -116,19 +112,17 @@ Currently at **Findica** as a **Software DevOps Engineer – AI**, I design and 
 <table cellpadding="12" cellspacing="0">
   <tr>
     <td width="50%" valign="top" align="center">
-      <p><strong>AI & Machine Learning</strong><br/><img src="https://skillicons.dev/icons?i=pytorch,python" alt="PyTorch Python" height="32"/> <img src="./icons/openai.png" alt="OpenAI" height="32"/></p>
-      <p><strong>Cloud & Infrastructure</strong><br/><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="32"/> <img src="./icons/azure.png" alt="Azure" height="32"/> <img src="./icons/google-cloud.png" alt="GCP" height="32"/></p>
+      <p><strong>Languages</strong><br/><img src="https://skillicons.dev/icons?i=python,typescript,bash" alt="Python TypeScript Bash" height="32"/></p>
+      <p><strong>Cloud</strong><br/><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="32"/> <img src="./icons/azure.png" alt="Azure" height="32"/> <img src="./icons/google-cloud.png" alt="GCP" height="32"/></p>
       <p><strong>IaC & Automation</strong><br/><img src="./icons/hashicorp-terraform.png" alt="Terraform" height="32"/> <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" height="32"/></p>
       <p><strong>Containers & Orchestration</strong><br/><img src="./icons/docker.png" alt="Docker" height="32"/> <img src="./icons/kubernetes.png" alt="Kubernetes" height="32"/> <img src="./icons/helm.png" alt="Helm" height="32"/></p>
       <p><strong>CI/CD</strong><br/><img src="./icons/jenkins.png" alt="Jenkins" height="32"/> <img src="./icons/github-actions.png" alt="GitHub Actions" height="32"/></p>
-      <p><strong>Monitoring & Observability</strong><br/><img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus Grafana" height="32"/> <img src="./icons/splunk.png" alt="Splunk" height="32"/></p>
     </td>
     <td width="50%" valign="top" align="center">
-      <p><strong>Backend & APIs</strong><br/><img src="https://skillicons.dev/icons?i=python,fastapi" alt="Python FastAPI" height="32"/> <img src="https://skillicons.dev/icons?i=nodejs,typescript" alt="Node TypeScript" height="32"/> <img src="./icons/api.png" alt="API" height="32"/></p>
-      <p><strong>Programming & Development</strong><br/><img src="https://skillicons.dev/icons?i=typescript,nodejs,react,nextjs" alt="TypeScript Node React Next" height="32"/></p>
-      <p><strong>Scripting & Automation</strong><br/><img src="https://skillicons.dev/icons?i=python,bash" alt="Python Bash" height="32"/></p>
-      <p><strong>Databases & Storage</strong><br/><img src="./icons/postgre.png" alt="PostgreSQL" height="32"/> <img src="https://skillicons.dev/icons?i=redis,mongodb" alt="Redis MongoDB" height="32"/></p>
-      <p><strong>Security & Networking</strong><br/><img src="./icons/security.png" alt="Security" height="32"/> <img src="./icons/load-balancing.png" alt="Load balancing" height="32"/> <img src="./icons/network.png" alt="Network" height="32"/> <img src="./icons/ngnix.png" alt="Nginx" height="32"/></p>
+      <p><strong>Backend & Frameworks</strong><br/><img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,nextjs" alt="FastAPI Node React Next" height="32"/> <img src="./icons/ngnix.png" alt="Nginx" height="32"/></p>
+      <p><strong>AI & ML</strong><br/><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" height="32"/> <img src="./icons/openai.png" alt="OpenAI" height="32"/></p>
+      <p><strong>Databases</strong><br/><img src="./icons/postgre.png" alt="PostgreSQL" height="32"/> <img src="https://skillicons.dev/icons?i=redis,mongodb" alt="Redis MongoDB" height="32"/></p>
+      <p><strong>Monitoring</strong><br/><img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus Grafana" height="32"/> <img src="./icons/splunk.png" alt="Splunk" height="32"/></p>
     </td>
   </tr>
 </table>
@@ -144,95 +138,66 @@ Currently at **Findica** as a **Software DevOps Engineer – AI**, I design and 
 <table cellpadding="12">
   <tr>
     <td width="50%" valign="top">
-      <h3>AI-Powered Analytics Platform</h3>
-      <p><em>Enterprise level intelligent analytics platform</em></p>
+      <h3>AI Analytics Platform</h3>
+      <p><em>Enterprise analytics with LLM-powered natural language queries</em></p>
       <p><img src="https://skillicons.dev/icons?i=typescript,nodejs,react" alt="Stack" height="32"/> <img src="./icons/postgre.png" alt="PostgreSQL" height="32"/></p>
-      <p><strong>Key:</strong> 60% cost reduction (semantic caching), 99.9% uptime. LLM natural language queries, D3.js/Recharts visualization, real-time PostgreSQL KPIs, token tracking &amp; rate limiting.</p>
+      <p>Semantic caching reduced LLM API costs by 60%. Real-time PostgreSQL KPIs, D3.js visualization, token tracking, rate limiting. 99.9% uptime.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Application Migration to AWS</h3>
-      <p><em>Enterprise-scale containerization and CI/CD</em></p>
+      <p><em>Containerized deployment pipeline for multi-module application</em></p>
       <p><img src="./icons/docker.png" alt="Docker" height="32"/> <img src="./icons/kubernetes.png" alt="Kubernetes" height="32"/> <img src="./icons/jenkins.png" alt="Jenkins" height="32"/></p>
-      <p>Migrated multi-module app to AWS. Docker &amp; Kubernetes containerization, automated CI/CD pipelines, improved deployment reliability.</p>
+      <p>Dockerized a multi-module app, deployed to EKS with Kubernetes, built Jenkins CI/CD pipelines for automated rollouts.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Canadian Retail Cloud Storage Migration</h3>
-      <p><em>Large-scale storage infrastructure migration to AWS</em></p>
+      <h3>Retail Storage Migration to AWS</h3>
+      <p><em>On-prem to cloud storage migration for a Canadian retailer</em></p>
       <p><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="32"/> <img src="./icons/hitachi.png" alt="Hitachi" height="32"/></p>
-      <p>Hitachi HUSVM/HNAS on-prem to AWS. 99.9% uptime during migration, enhanced data integrity, reduced cost.</p>
+      <p>Migrated Hitachi HUSVM/HNAS to AWS. 99.9% uptime maintained during migration with zero data loss.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Backup Infrastructure Migration to Azure</h3>
-      <p><em>End-to-end backup system migration and optimization</em></p>
+      <h3>Backup Migration to Azure</h3>
+      <p><em>IBM TSM to Dell Avamar on Azure</em></p>
       <p><img src="./icons/azure.png" alt="Azure" height="32"/> <img src="./icons/dell.png" alt="Dell" height="32"/></p>
-      <p>IBM TSM → Dell Avamar on Azure. HA/DR plans, optimized backup schedules, 50% fewer operational disruptions.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>Marketing Website with Next.js</h3>
-      <p><em>Responsive marketing site with modern performance optimizations</em></p>
-      <p><img src="https://skillicons.dev/icons?i=nextjs,typescript" alt="Stack" height="32"/></p>
-      <p>TypeScript &amp; Next.js, server-side rendering, image optimization. Deployed on Vercel, 40% faster load times, SEO best practices.</p>
+      <p>Designed HA/DR plans, optimized backup schedules. 50% reduction in operational disruptions post-migration.</p>
     </td>
   </tr>
 </table>
 
-### Open Source & Side Projects
-
-*Production systems. Real metrics. No demo-ware.*
+### Open Source
 
 <table cellpadding="12">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/adwibha/rag-pipeline">rag-pipeline</a></h3>
-      <p><em>Document ingestion → pgvector semantic search → Ollama LLM → streamed answers</em></p>
+      <h3><a href="https://github.com/adwibha/rag-pipeline-ollama">rag-pipeline-ollama</a></h3>
+      <p><em>Document ingestion → pgvector search → Ollama LLM → streamed answers</em></p>
       <p><img src="https://skillicons.dev/icons?i=python,fastapi,redis" alt="Stack" height="32"/> <img src="./icons/postgre.png" alt="PostgreSQL" height="32"/></p>
-      <p>Redis cache cuts repeated query latency to &lt;5ms. MCP server exposes RAG as a tool for AI agents.</p>
+      <p>Redis cache brings repeated query latency under 5ms. MCP server exposes RAG as a tool for AI agents.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/adwibha/obs-stack-local">obs-stack-local</a></h3>
-      <p><em>6-service observability stack — pre-provisioned dashboards, alert rules, one command</em></p>
+      <p><em>6-service observability stack with pre-provisioned dashboards and alerts</em></p>
       <p><img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Stack" height="32"/> <img src="./icons/docker.png" alt="Docker" height="32"/></p>
-      <p>SLI/SLO-driven alerting · 40% faster incident detection</p>
+      <p>Prometheus, Grafana, Alertmanager, Loki — one <code>docker compose up</code>. SLI/SLO-driven alerting out of the box.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/adwibha/ai-incident-responder">ai-incident-responder</a></h3>
-      <p><em>Alert fires → Prometheus enrichment → LLM runbook → React dashboard in seconds</em></p>
+      <p><em>Alert → Prometheus enrichment → LLM runbook → dashboard</em></p>
       <p><img src="https://skillicons.dev/icons?i=python,fastapi,react" alt="Stack" height="32"/> <img src="./icons/postgre.png" alt="PostgreSQL" height="32"/></p>
-      <p>Webhook to stored LLM runbook in under 15s · Ollama + Perplexity support</p>
+      <p>Webhook to stored LLM runbook in under 15 seconds. Ollama and Perplexity support.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/adwibha/llm-router">llm-router</a></h3>
-      <p><em>Routes prompts to cheapest Perplexity model. Tracks every token, dollar, and latency.</em></p>
+      <p><em>Routes prompts to the cheapest model that fits. Tracks every token and dollar.</em></p>
       <p><img src="https://skillicons.dev/icons?i=python,fastapi,grafana" alt="Stack" height="32"/> <img src="./icons/postgre.png" alt="PostgreSQL" height="32"/></p>
-      <p>Full cost telemetry per request · OpenAI-compatible API · provider-agnostic</p>
+      <p>Per-request cost telemetry, OpenAI-compatible API, provider-agnostic architecture.</p>
     </td>
   </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-## GitHub Activity
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adwibha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=adwibha&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=adwibha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adwibha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&include_all_commits=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adwibha&layout=compact&theme=default&hide_border=true&langs_count=8&count_private=true&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwibha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&include_all_commits=true" width="49%" alt="Top languages"/>
-  </picture>
 
 </div>
 
@@ -256,13 +221,9 @@ Currently at **Findica** as a **Software DevOps Engineer – AI**, I design and 
 
 ## Technical Writing
 
-I share my knowledge and experiences through technical writing on Medium.
-
-<a href="https://medium.com/@adwibha"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://medium.com/@adwibha"><img src="./icons/medium.png" height="36" alt="Medium"/></a>
 
 </div>
-
-### Recent Articles
 
 - **[How to Run Open-Source LLMs Locally with Ollama — The Fastest Way to Start](https://medium.com/@adwibha/how-to-run-open-source-llms-locally-with-ollama-the-fastest-way-to-start-97b9b2f6986d)**
 - **[Monitoring AWS EKS with Prometheus and Grafana](https://medium.com/@adwibha/monitoring-aws-eks-with-prometheus-and-grafana-1b9d92f63a22)**
@@ -274,9 +235,11 @@ I share my knowledge and experiences through technical writing on Medium.
 
 ## Let's Connect
 
-**I'm always open to discussing AI, DevOps, infrastructure, or new opportunities!**
+**Open to Software Engineering, DevOps, SRE, and AI Infrastructure roles.**
 
-<a href="https://www.linkedin.com/in/akhil-dwibhashyam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/akhil-dwibhashyam/"><img src="./icons/linkedin.png" height="36" alt="LinkedIn"/></a>
+&nbsp;&nbsp;
+<a href="https://medium.com/@adwibha"><img src="./icons/medium.png" height="36" alt="Medium"/></a>
 
 </div>
 
@@ -288,5 +251,7 @@ I share my knowledge and experiences through technical writing on Medium.
   <a href="https://www.flaticon.com/free-icons/api" title="api icons">Api icons created by berkahicon - Flaticon</a> ·
   <a href="https://www.flaticon.com/free-icons/load-balancer" title="load balancer icons">Load balancer icons created by smalllikeart - Flaticon</a> ·
   <a href="https://www.flaticon.com/free-icons/dell" title="dell icons">Dell icons created by Freepik - Flaticon</a> ·
-  <a href="https://www.flaticon.com/free-icons/hitachi" title="hitachi icons">Hitachi icons created by Freepik - Flaticon</a>
+  <a href="https://www.flaticon.com/free-icons/hitachi" title="hitachi icons">Hitachi icons created by Freepik - Flaticon</a> ·
+  <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by ZFreet - Flaticon</a> ·
+  <a href="https://www.flaticon.com/free-icons/medium" title="medium icons">Medium icons created by Ruslan Babkin - Flaticon</a>
 </p>
