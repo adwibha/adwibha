@@ -28,19 +28,20 @@ adwibha@MacBook:~
 $ whoami
 name       : Akhil Dwibhashyam
 location   : Austin, TX · Open to remote
-stack      : AWS · Terraform · Kubernetes · Python · FastAPI · LangChain
+stack      : AWS · Terraform · Kubernetes · Python · FastAPI · TypeScript/Node
 focus:
-  backend         : REST APIs, FastAPI/Node, service design, databases
+  backend         : REST APIs, FastAPI/Node, service design, PostgreSQL
   infrastructure  : IaC, ECS/EKS, CI/CD, zero-downtime deployments
   reliability     : SLIs/SLOs, observability, incident response automation
-  ai-systems      : RAG pipelines, LLM routing, MCP servers, vector search
+  ai-systems      : Multi-agent systems, LLM cost optimization, MCP servers, agentic workflows
 certifications:
   - AWS Solutions Architect – Associate
   - HashiCorp Certified Terraform Associate
   - Certified DevOps Engineer (CDE)
-  - Prompt Engineering & Programming with OpenAI (Columbia)
+  - McKinsey Forward Program
+  - Engineer AI Agents with Agent Development Kit (ADK)
 education  : Master of Science in Computer Science
-currently  : Open to Software Engineering · DevOps · SRE · AI Infrastructure roles
+currently  : Software Engineering · DevOps · SRE · AI Infrastructure roles
 ```
 
 </div>
@@ -53,11 +54,11 @@ currently  : Open to Software Engineering · DevOps · SRE · AI Infrastructure 
 
 </div>
 
-Software engineer with 5+ years building backend services, cloud infrastructure (AWS, Azure, GCP), and DevOps pipelines. MS in Computer Science. I design and scale systems using Terraform, Docker, Kubernetes, and CI/CD — and lately, I've been putting AI to work inside those systems.
+5+ years building backend services, cloud infrastructure (AWS, Azure, GCP), and DevOps pipelines. MS in Computer Science.
 
-Currently at **Findica**, where I build an enterprise AI analytics platform — LLM-powered queries (GPT-4, Gemini), semantic caching, real-time PostgreSQL analytics, and the TypeScript/Node backend serving it all. Before that, I ran large-scale cloud migrations, built containerized deployment pipelines on EKS, and stood up monitoring stacks from scratch.
+Increasingly focused on production agentic AI: multi-agent orchestration with LangGraph, LLM cost optimization, and observable autonomous systems. Recent work spans production research agents, semantic caching (60% LLM cost reduction), and real-time analytics platforms.
 
-I'm most interested in the intersection of infrastructure and AI: reducing LLM costs with smart caching, automating incident response with language models, building observability into everything. I want the infrastructure to be as intelligent as the applications running on it.
+Before AI, I ran large-scale cloud migrations and built EKS deployment pipelines. Core intersection: infrastructure reliability meets agentic AI.
 
 ---
 
@@ -72,6 +73,8 @@ I'm most interested in the intersection of infrastructure and AI: reducing LLM c
 <a href="https://www.gsdcouncil.org/certificate-verification"><img src="./CDE-Badge.png" height="90" alt="CDE"/></a>
 &nbsp;&nbsp;
 <a href="https://www.credly.com/badges/ded808d6-8eb0-4ac6-a0c2-5c6927325650/public_url"><img src="./McKinsey-Forward.png" height="90" alt="McKinsey Forward"/></a>
+&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/a1cf45de-7013-40ec-b9fd-7350a35ca49b/public_url"><img src="./adk_badge_credly.png" height="90" alt="ADK Badge"/></a>
 
 </div>
 
@@ -89,14 +92,14 @@ I'm most interested in the intersection of infrastructure and AI: reducing LLM c
       <p>Production AWS environments with Terraform IaC, ECS/EKS orchestration, VPC networking, and automated CI/CD pipelines.</p>
     </td>
     <td align="center" width="33%">
-      <p><img src="https://skillicons.dev/icons?i=python,fastapi" alt="Python FastAPI" height="32"/> <img src="./icons/postgre.png" alt="PostgreSQL" height="32"/></p>
-      <p><strong>Backend & AI Systems</strong></p>
-      <p>REST APIs (FastAPI, Node), RAG pipelines with pgvector, LLM cost routers, MCP servers, and streaming endpoints.</p>
+      <p><img src="https://skillicons.dev/icons?i=python,typescript" alt="Python TypeScript" height="32"/> <img src="./icons/postgre.png" alt="PostgreSQL" height="32"/></p>
+      <p><strong>Agentic AI & Backend</strong></p>
+      <p>Multi-agent systems with LangGraph orchestration, REST APIs (FastAPI, Node), LLM cost optimization, MCP servers, and streaming architectures.</p>
     </td>
     <td align="center" width="33%">
       <p><img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus Grafana" height="32"/> <img src="./icons/docker.png" alt="Docker" height="32"/></p>
-      <p><strong>Reliability Engineering</strong></p>
-      <p>Observability stacks (Prometheus, Grafana, Splunk), SLI/SLO frameworks, and automated incident response.</p>
+      <p><strong>Reliability & Observability</strong></p>
+      <p>Observable agentic systems, SLI/SLO frameworks, incident response automation, and production monitoring stacks (Prometheus, Grafana, Splunk).</p>
     </td>
   </tr>
 </table>
@@ -112,17 +115,12 @@ I'm most interested in the intersection of infrastructure and AI: reducing LLM c
 <table cellpadding="12" cellspacing="0">
   <tr>
     <td width="50%" valign="top" align="center">
-      <p><strong>Languages</strong><br/><img src="https://skillicons.dev/icons?i=python,typescript,bash" alt="Python TypeScript Bash" height="32"/></p>
-      <p><strong>Cloud</strong><br/><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="32"/> <img src="./icons/azure.png" alt="Azure" height="32"/> <img src="./icons/google-cloud.png" alt="GCP" height="32"/></p>
-      <p><strong>IaC & Automation</strong><br/><img src="./icons/hashicorp-terraform.png" alt="Terraform" height="32"/> <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" height="32"/></p>
-      <p><strong>Containers & Orchestration</strong><br/><img src="./icons/docker.png" alt="Docker" height="32"/> <img src="./icons/kubernetes.png" alt="Kubernetes" height="32"/> <img src="./icons/helm.png" alt="Helm" height="32"/></p>
-      <p><strong>CI/CD</strong><br/><img src="./icons/jenkins.png" alt="Jenkins" height="32"/> <img src="./icons/github-actions.png" alt="GitHub Actions" height="32"/></p>
+      <p><strong>Languages & Backend</strong><br/><img src="https://skillicons.dev/icons?i=python,typescript,bash" alt="Python TypeScript Bash" height="32"/> <img src="https://skillicons.dev/icons?i=fastapi,nodejs" alt="FastAPI Node" height="32"/></p>
+      <p><strong>Infrastructure</strong><br/><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="32"/> <img src="./icons/hashicorp-terraform.png" alt="Terraform" height="32"/> <img src="./icons/docker.png" alt="Docker" height="32"/> <img src="./icons/kubernetes.png" alt="Kubernetes" height="32"/></p>
     </td>
     <td width="50%" valign="top" align="center">
-      <p><strong>Backend & Frameworks</strong><br/><img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,nextjs" alt="FastAPI Node React Next" height="32"/> <img src="./icons/ngnix.png" alt="Nginx" height="32"/></p>
-      <p><strong>AI & ML</strong><br/><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" height="32"/> <img src="./icons/openai.png" alt="OpenAI" height="32"/></p>
-      <p><strong>Databases</strong><br/><img src="./icons/postgre.png" alt="PostgreSQL" height="32"/> <img src="https://skillicons.dev/icons?i=redis,mongodb" alt="Redis MongoDB" height="32"/></p>
-      <p><strong>Monitoring</strong><br/><img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus Grafana" height="32"/> <img src="./icons/splunk.png" alt="Splunk" height="32"/></p>
+      <p><strong>AI & Data</strong><br/><img src="./icons/postgre.png" alt="PostgreSQL" height="32"/> <img src="https://skillicons.dev/icons?i=redis" alt="Redis" height="32"/> <img src="./icons/openai.png" alt="OpenAI" height="32"/></p>
+      <p><strong>Observability</strong><br/><img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus Grafana" height="32"/> <img src="./icons/splunk.png" alt="Splunk" height="32"/></p>
     </td>
   </tr>
 </table>
@@ -138,30 +136,30 @@ I'm most interested in the intersection of infrastructure and AI: reducing LLM c
 <table cellpadding="12">
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/adwibha/researchflow-agent">Production Multi-Agent Research System</a></h3>
+      <p><em>Autonomous agentic system for research synthesis and iterative refinement</em></p>
+      <p><img src="https://skillicons.dev/icons?i=python" alt="Python" height="32"/></p>
+      <p>Production-grade multi-agent orchestration with LangGraph. Autonomous research synthesis, iterative refinement, and tool orchestration. Real-time API integration, context management, and agentic workflows at scale.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3>AI Analytics Platform</h3>
       <p><em>Enterprise analytics with LLM-powered natural language queries</em></p>
       <p><img src="https://skillicons.dev/icons?i=typescript,nodejs,react" alt="Stack" height="32"/> <img src="./icons/postgre.png" alt="PostgreSQL" height="32"/></p>
       <p>Semantic caching reduced LLM API costs by 60%. Real-time PostgreSQL KPIs, D3.js visualization, token tracking, rate limiting. 99.9% uptime.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Application Migration to AWS</h3>
-      <p><em>Containerized deployment pipeline for multi-module application</em></p>
-      <p><img src="./icons/docker.png" alt="Docker" height="32"/> <img src="./icons/kubernetes.png" alt="Kubernetes" height="32"/> <img src="./icons/jenkins.png" alt="Jenkins" height="32"/></p>
-      <p>Dockerized a multi-module app, deployed to EKS with Kubernetes, built Jenkins CI/CD pipelines for automated rollouts.</p>
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Retail Storage Migration to AWS</h3>
-      <p><em>On-prem to cloud storage migration for a Canadian retailer</em></p>
-      <p><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="32"/> <img src="./icons/hitachi.png" alt="Hitachi" height="32"/></p>
-      <p>Migrated Hitachi HUSVM/HNAS to AWS. 99.9% uptime maintained during migration with zero data loss.</p>
+      <h3>Application Migration to AWS</h3>
+      <p><em>Containerized deployment pipeline for multi-module enterprise application</em></p>
+      <p><img src="./icons/docker.png" alt="Docker" height="32"/> <img src="./icons/kubernetes.png" alt="Kubernetes" height="32"/> <img src="./icons/jenkins.png" alt="Jenkins" height="32"/></p>
+      <p>Containerized multi-service app and migrated to EKS. Built Jenkins CI/CD pipelines with automated rollouts and zero-downtime deployments. Reduced deployment time by 70%.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Backup Migration to Azure</h3>
-      <p><em>IBM TSM to Dell Avamar on Azure</em></p>
-      <p><img src="./icons/azure.png" alt="Azure" height="32"/> <img src="./icons/dell.png" alt="Dell" height="32"/></p>
-      <p>Designed HA/DR plans, optimized backup schedules. 50% reduction in operational disruptions post-migration.</p>
+      <h3>Retail Storage Migration to AWS</h3>
+      <p><em>On-premises to cloud storage migration for a Canadian retailer</em></p>
+      <p><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="32"/> <img src="./icons/hitachi.png" alt="Hitachi" height="32"/></p>
+      <p>Migrated Hitachi HUSVM/HNAS storage to AWS. Maintained 99.9% uptime throughout migration with zero data loss. Designed HA/DR architecture and runbooks.</p>
     </td>
   </tr>
 </table>
@@ -171,47 +169,47 @@ I'm most interested in the intersection of infrastructure and AI: reducing LLM c
 <table cellpadding="12">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/adwibha/rag-pipeline-ollama">rag-pipeline-ollama</a></h3>
-      <p><em>Document ingestion → pgvector search → Ollama LLM → streamed answers</em></p>
-      <p><img src="https://skillicons.dev/icons?i=python,fastapi,redis" alt="Stack" height="32"/> <img src="./icons/postgre.png" alt="PostgreSQL" height="32"/></p>
-      <p>Redis cache brings repeated query latency under 5ms. MCP server exposes RAG as a tool for AI agents.</p>
+      <h3><a href="https://github.com/adwibha/exploring-adk">exploring-adk</a></h3>
+      <p><em>10-module learning curriculum for Google Agent Development Kit</em></p>
+      <p><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="32"/></p>
+      <p>Hands-on learning resource. Agent configuration, tool orchestration, multi-agent systems, LangGraph integration, and production patterns.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/adwibha/obs-stack-local">obs-stack-local</a></h3>
-      <p><em>6-service observability stack with pre-provisioned dashboards and alerts</em></p>
-      <p><img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Stack" height="32"/> <img src="./icons/docker.png" alt="Docker" height="32"/></p>
-      <p>Prometheus, Grafana, Alertmanager, Loki — one <code>docker compose up</code>. SLI/SLO-driven alerting out of the box.</p>
+      <h3><a href="https://github.com/google/adk-js">google/adk-js</a></h3>
+      <p><em>Google Agent Development Kit — TypeScript</em></p>
+      <p><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="32"/></p>
+      <p>Contributor to official Google ADK. Building agentic capabilities into the TypeScript ecosystem.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/adwibha/ai-incident-responder">ai-incident-responder</a></h3>
-      <p><em>Alert → Prometheus enrichment → LLM runbook → dashboard</em></p>
-      <p><img src="https://skillicons.dev/icons?i=python,fastapi,react" alt="Stack" height="32"/> <img src="./icons/postgre.png" alt="PostgreSQL" height="32"/></p>
-      <p>Webhook to stored LLM runbook in under 15 seconds. Ollama and Perplexity support.</p>
+      <h3><a href="https://github.com/adwibha/llm-router">llm-router</a></h3>
+      <p><em>LLM cost optimization via intelligent model routing</em></p>
+      <p><img src="https://skillicons.dev/icons?i=python,fastapi" alt="Stack" height="32"/></p>
+      <p>Routes prompts to the cheapest capable model. Per-request cost telemetry, OpenAI-compatible API, multi-provider support.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/adwibha/llm-router">llm-router</a></h3>
-      <p><em>Routes prompts to the cheapest model that fits. Tracks every token and dollar.</em></p>
-      <p><img src="https://skillicons.dev/icons?i=python,fastapi,grafana" alt="Stack" height="32"/> <img src="./icons/postgre.png" alt="PostgreSQL" height="32"/></p>
-      <p>Per-request cost telemetry, OpenAI-compatible API, provider-agnostic architecture.</p>
+      <h3><a href="https://github.com/adwibha/obs-stack-local">obs-stack-local</a></h3>
+      <p><em>Observability stack for agentic systems</em></p>
+      <p><img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Stack" height="32"/></p>
+      <p>6-service stack with SLI/SLO alerting. One <code>docker compose up</code> to instrument production systems.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/adwibha/rag-pipeline-ollama">rag-pipeline-ollama</a></h3>
+      <p><em>Document ingestion → semantic search → local LLM response</em></p>
+      <p><img src="https://skillicons.dev/icons?i=python,fastapi,redis" alt="Stack" height="32"/></p>
+      <p>pgvector RAG with Redis caching (5ms latency on repeated queries). Ollama local inference, MCP server integration.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/adwibha/rag-agentic-search">rag-agentic-search</a></h3>
+      <p><em>Agentic search with iterative query refinement</em></p>
+      <p><img src="https://skillicons.dev/icons?i=python" alt="Python" height="32"/></p>
+      <p>Agent-driven RAG. Autonomous query refinement, multi-step search strategies, and relevance feedback loops.</p>
     </td>
   </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-## Contribution Graph
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adwibha/adwibha/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adwibha/adwibha/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/adwibha/adwibha/output/github-contribution-grid-snake.svg">
-  </picture>
 
 </div>
 
@@ -229,6 +227,8 @@ I'm most interested in the intersection of infrastructure and AI: reducing LLM c
 - **[Monitoring AWS EKS with Prometheus and Grafana](https://medium.com/@adwibha/monitoring-aws-eks-with-prometheus-and-grafana-1b9d92f63a22)**
 - **[Infrastructure as Code (IaC) with Terraform on AWS — The What, Why & How](https://medium.com/@adwibha/infrastructure-as-code-iac-with-terraform-on-aws-the-what-why-how-800a99ad24ba)**
 
+View all on <a href="https://medium.com/@adwibha">Medium</a>.
+
 ---
 
 <div align="center">
@@ -240,18 +240,8 @@ I'm most interested in the intersection of infrastructure and AI: reducing LLM c
 <a href="https://www.linkedin.com/in/akhil-dwibhashyam/"><img src="./icons/linkedin.png" height="36" alt="LinkedIn"/></a>
 &nbsp;&nbsp;
 <a href="https://medium.com/@adwibha"><img src="./icons/medium.png" height="36" alt="Medium"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/adwibha?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
----
-
-<p align="center">
-  Flaticon credits:
-  <a href="https://www.flaticon.com/free-icons/security" title="security icons">Security icons created by Freepik - Flaticon</a> ·
-  <a href="https://www.flaticon.com/free-icons/api" title="api icons">Api icons created by berkahicon - Flaticon</a> ·
-  <a href="https://www.flaticon.com/free-icons/load-balancer" title="load balancer icons">Load balancer icons created by smalllikeart - Flaticon</a> ·
-  <a href="https://www.flaticon.com/free-icons/dell" title="dell icons">Dell icons created by Freepik - Flaticon</a> ·
-  <a href="https://www.flaticon.com/free-icons/hitachi" title="hitachi icons">Hitachi icons created by Freepik - Flaticon</a> ·
-  <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by ZFreet - Flaticon</a> ·
-  <a href="https://www.flaticon.com/free-icons/medium" title="medium icons">Medium icons created by Ruslan Babkin - Flaticon</a>
-</p>
