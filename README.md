@@ -11,6 +11,11 @@
         &nbsp;
         <a href="https://www.credly.com/users/adwibha"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
       </p>
+      <p>
+        <a href="https://portfolio.adwibha.me"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
+        &nbsp;
+        <a href="https://blog.adwibha.me"><img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"/></a>
+      </p>
     </td>
     <td width="50%" valign="middle" align="right">
       <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="AI Cloud Infrastructure" width="100%"/>
@@ -219,7 +224,7 @@ Before AI, I ran large-scale cloud migrations and built EKS deployment pipelines
 
 ## Technical Writing
 
-<a href="https://medium.com/@adwibha"><img src="./icons/medium.png" height="36" alt="Medium"/></a>
+<a href="https://medium.com/@adwibha"><img src="./icons/medium.png" height="36" alt="Medium"/></a>&nbsp;&nbsp;<a href="https://blog.adwibha.me"><img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=rss&logoColor=white" alt="Personal blog"/></a>
 
 </div>
 
@@ -227,7 +232,7 @@ Before AI, I ran large-scale cloud migrations and built EKS deployment pipelines
 - **[Monitoring AWS EKS with Prometheus and Grafana](https://medium.com/@adwibha/monitoring-aws-eks-with-prometheus-and-grafana-1b9d92f63a22)**
 - **[Infrastructure as Code (IaC) with Terraform on AWS — The What, Why & How](https://medium.com/@adwibha/infrastructure-as-code-iac-with-terraform-on-aws-the-what-why-how-800a99ad24ba)**
 
-View all on <a href="https://medium.com/@adwibha">Medium</a>.
+View all on <a href="https://medium.com/@adwibha">Medium</a>. Longer posts and notes also live on <a href="https://blog.adwibha.me">blog.adwibha.me</a>.
 
 ---
 
@@ -242,6 +247,22 @@ View all on <a href="https://medium.com/@adwibha">Medium</a>.
 <a href="https://medium.com/@adwibha"><img src="./icons/medium.png" height="36" alt="Medium"/></a>
 &nbsp;&nbsp;
 <a href="https://github.com/adwibha?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+&nbsp;&nbsp;
+<a href="https://portfolio.adwibha.me"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
+&nbsp;&nbsp;
+<a href="https://blog.adwibha.me"><img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adwibha/adwibha/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adwibha/adwibha/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/adwibha/adwibha/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
